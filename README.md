@@ -59,7 +59,7 @@ Whether it’s cleaning messy data, building dashboards, analyzing trends, or su
 🌍 Ghana-Based | Available for remote projects worldwide
 
 ---
-[Transformer Health Monitoring Dashboard](https://github.com/AndyBa275/transformer-monitoring-system)
+
 
 
 *Your Data, Our Solutions.*
